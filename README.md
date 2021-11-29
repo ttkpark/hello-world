@@ -1,4 +1,4 @@
 # hello-world
-Just anther repository
+Just another repository
 
 This is first change.
